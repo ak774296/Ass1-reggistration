@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ass1-reggistration/static/css/main.ccf31550.css",
+    "main.js": "/Ass1-reggistration/static/js/main.c8e085f0.js",
+    "index.html": "/Ass1-reggistration/index.html",
+    "main.ccf31550.css.map": "/Ass1-reggistration/static/css/main.ccf31550.css.map",
+    "main.c8e085f0.js.map": "/Ass1-reggistration/static/js/main.c8e085f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccf31550.css",
+    "static/js/main.c8e085f0.js"
+  ]
+}
