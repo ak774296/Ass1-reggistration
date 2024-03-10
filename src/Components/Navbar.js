@@ -7,6 +7,7 @@ function Navbar(){
         <div className="text-3xl text-white pt-6 leading-10">
             <span className="text-4xl font-bold">S</span>tudymitr
         </div>
+        hello my name is arvind
             <NavLink to={"/regestration-step-1"}>
                 <div
                 className="text-2xl  mt-6 border-2 border-slate-500 rounded-lg flex gap-2 justify-center
